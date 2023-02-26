@@ -3,7 +3,7 @@ html, body {
     color: #a8c686;
     margin:0;
     padding: 0;
-    padding-top: 10px;
+    padding-top: 40px;
     font-family: 'Nabla', cursive;
     word-spacing: 0.5rem;
     letter-spacing: 0.3rem;
@@ -37,7 +37,7 @@ h1 {
 textarea {
     font-family: 'Press Start 2P', cursive;
     border: 3px solid black;
-    width: 90%;
+    width: 50%;
     margin: 0 auto;
     outline: none;
     height: 200px;
